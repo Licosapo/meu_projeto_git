@@ -1,0 +1,5 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de backup
+*.bak
