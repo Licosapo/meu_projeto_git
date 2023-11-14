@@ -1,1 +1,2 @@
 Exemplo vou te alterar porque posso
+Alterações efectuadas no branch NovaFeature
