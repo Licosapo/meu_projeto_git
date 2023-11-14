@@ -1,3 +1,7 @@
 Exemplo vou te alterar porque posso
 Alterações efectuadas no branch NovaFeature
+ HEAD
 Alteraçoes NovaFeature
+
+Alteração em main
+ main
